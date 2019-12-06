@@ -1,2 +1,2 @@
-print('HELLO WORLD')
-print('OK GOOGLE')
+print('hello world')
+print('ok google')
